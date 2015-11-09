@@ -1,0 +1,10 @@
+canvas{
+  background-color: blue;
+  border: solid;
+  margin: -16px;
+}
+
+div{
+  position: absolute;
+  top: 60%;
+}
